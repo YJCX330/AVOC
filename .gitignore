@@ -1,0 +1,21 @@
+# Python caches
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs and runtime outputs
+*.log
+results/
+
+# Local/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Large model/checkpoint weights
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+
