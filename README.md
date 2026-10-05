@@ -1,6 +1,6 @@
 # AVOC
 
-This repository contains the AVOC checkpoint, training code, and inference scripts built on top of MiniCPM-o. All commands below assume that you run them from the repository root.
+This repository contains the AVOC checkpoint, training code, and inference scripts built on top of [MiniCPM-o 4.5](https://huggingface.co/openbmb/MiniCPM-o-4_5). All commands below assume that you run them from the repository root.
 
 
 Download the checkpoint from https://huggingface.co/mxxxxxxxxxxxxxxxxx/AVOC and place it at:
