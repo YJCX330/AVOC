@@ -145,3 +145,14 @@ python3 infer/eval.py \
   --compression-mmr-window 3
 ```
 Or refer to the evaluation script `infer/eval_lvomnibench_8gpu.sh`.
+
+## Citation
+If you find it useful for your research and applications, please cite our paper using this BibTeX:
+```bibtex
+@article{avoc,
+  title={AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression},
+  author={Chen, Yijing and Tan, Wenhui and Yu, Xiaoyi and Wang, Yuyue and Cheng, Xin and Guan, Kaisi and Jiang, Hao and Li, Xiangyang and Zhu, Guojie and Song, Ruihua},
+  journal={arXiv preprint arXiv:2606.24286},
+  year={2026}
+}
+```
