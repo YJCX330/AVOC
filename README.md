@@ -1,4 +1,4 @@
-# AVOC
+# AVOC: Enhancing Hour-Level Audio-Video Understanding in Omni-Modal LLMs via Retrieval-Inspired Token Compression
 
 This repository contains the AVOC checkpoint, training code, and inference scripts built on top of [MiniCPM-o 4.5](https://huggingface.co/openbmb/MiniCPM-o-4_5). All commands below assume that you run them from the repository root.
 
